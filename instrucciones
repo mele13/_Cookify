@@ -1,4 +1,0 @@
-en backend hacer node server.js
-en Client/react-native/Cookify npx react-native start
- npx sequelize-cli migration:generate --name adfasfa
- npx sequelize-cli db:migrate
